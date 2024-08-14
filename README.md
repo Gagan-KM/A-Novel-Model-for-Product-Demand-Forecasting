@@ -27,3 +27,7 @@ Eliminates Manual Work: Automation reduces the need for manual processes.
 Enhances Company Standards: By improving accuracy and reducing risks, the system boosts overall business standards.
 Increases Profits: It helps in minimizing losses and maximizing profits by aligning production with demand.
 Optimizes Product Offerings: Companies can focus on increasing the availability of high-demand products.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Installation is simple just, download the zip file, extract it and open the productDemandForecasting.sln file if you have microsoft visual studio installed, after this you are good to go and use the software.
